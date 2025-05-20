@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import githubIcon from "~/public/github-icon.svg";
-import linkedinIcon from "~/public/linkedin-icon.svg";
+import linkedinIcon from "~/public/linkedIn-icon.svg";
 import TypeWriter from "typewriter-effect";
 import { Button } from "@/components/ui/button";
 
